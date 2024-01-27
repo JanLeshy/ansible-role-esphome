@@ -1,4 +1,4 @@
-# Role Name
+# ESPHome
 
 This role installs ESPHome on a remote server with all required dependencies.
 
